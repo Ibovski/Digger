@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Digger2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Programming/OOP C++/Digger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Digger">
+				<Option output="D:/Programming/OOP C++/Digger/cmake-build-debug/Digger.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programming/OOP C++/Digger/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programming/OOP C++/Digger/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 Digger"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Digger/fast">
+				<Option output="D:/Programming/OOP C++/Digger/cmake-build-debug/Digger.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Programming/OOP C++/Digger/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Programming/OOP C++/Digger/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 Digger/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Programming/OOP C++/Digger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Programming/OOP C++/Digger/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;D:/Programming/OOP C++/Digger/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/ChaseComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Collision.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/CollisionComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Components.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/DestroyBag.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/ECS.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/ENUMparameters.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Game.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Keyboard.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Map.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/ProjectileComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/SpriteComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/TextureManager.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/TileComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/TransformComponent.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/headers/Vector2D.h">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/main.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/ECS.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/chaseComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/collision.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/collisionComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/destroyBag.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/game.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/keyboard.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/map.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/projectileComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/spriteComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/textureManager.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/tileComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/transformComponent.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/src/vector2D.cpp">
+			<Option target="Digger"/>
+		</Unit>
+		<Unit filename="D:/Programming/OOP C++/Digger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

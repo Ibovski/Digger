@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['getcollider_119',['getCollider',['../class_collision_component.html#abd5987fc970ea3cb8da3a11f9ae6ef7e',1,'CollisionComponent']]],
+  ['getcollisioncomponent_120',['getCollisionComponent',['../class_projectile_component.html#abc411f60c5014c00e12ca1f2e6a6876a',1,'ProjectileComponent']]],
+  ['getcomponent_121',['getComponent',['../class_entity.html#ab67b05516196a4ec97c5b9fd13638bbb',1,'Entity']]],
+  ['getflag_122',['getFlag',['../class_sprite_component.html#a6af37f386ec0feee8dd635dfcf1c1402',1,'SpriteComponent']]],
+  ['getgroup_123',['getGroup',['../class_manager.html#a0098ffb4a888edbbf4dde12c6953e457',1,'Manager::getGroup()'],['../class_tile_component.html#a788ac0e351610bb503b276a2705997dc',1,'TileComponent::getGroup()']]],
+  ['getheight_124',['getHeight',['../class_transform_component.html#adb52dc2030d7ac1a1e51d5494635f305',1,'TransformComponent']]],
+  ['getinstance_125',['getInstance',['../class_game.html#a115e2c272c91e4ecbd6115d1eda70f38',1,'Game::getInstance()'],['../class_map.html#ac6c5bc6088691013bb8e53d2adf801ef',1,'Map::getInstance()']]],
+  ['getlastposx_126',['getLastPosX',['../class_destroy_bag.html#aa7ebfc0dfc56624491ebe0db33af5778',1,'DestroyBag']]],
+  ['getlastposy_127',['getLastPosY',['../class_destroy_bag.html#a7aaed951fd6fa00932fe1256cdadd8fe',1,'DestroyBag']]],
+  ['getpoints_128',['getPoints',['../class_sprite_component.html#abe919eb46cc8ea3cc707c270e75f4bea',1,'SpriteComponent']]],
+  ['getpos_129',['getPos',['../class_transform_component.html#abfb13cdaf80d1171e57ff74f35137f0b',1,'TransformComponent']]],
+  ['getspeed_130',['getSpeed',['../class_transform_component.html#a5f50599fbfaf0cbfd8c3dadb3be7af05',1,'TransformComponent']]],
+  ['gettag_131',['getTag',['../class_collision_component.html#a2dd74ade4c6b67ed991472262a6d4742',1,'CollisionComponent']]],
+  ['gettileid_132',['getTileID',['../class_tile_component.html#a90d34b975baf9f736b8fb3d16c06e3a0',1,'TileComponent']]],
+  ['gettilepoints_133',['getTilePoints',['../class_tile_component.html#a1ebcba1dd5a89248d7a0b637688aefcc',1,'TileComponent']]],
+  ['getwidth_134',['getWidth',['../class_transform_component.html#a042d8de6baf69c0502903e0a9720c630',1,'TransformComponent']]]
+];
